@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rabbithsu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-dd4e9a02b8873855ce9d4570a73e1540ff26d9fb.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/classes-7a23b154427d9cf0bd947fdece46e4759359ee96.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2-beta1/14ade1a89b0f6db4fa481f9f8a721cdec69374de/jxmpp-core-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14ade1a89b0f6db4fa481f9f8a721cdec69374de">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/jxmpp-core-0.4.2-beta1-7f00dcc8eeee19a0ac94b150e4d3ca0de02c3300.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.3/9a3f4111627fa29eb3ba8fe0977990fe154f9fcc/smack-sasl-provided-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9a3f4111627fa29eb3ba8fe0977990fe154f9fcc">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-sasl-provided-4.1.3-31dfa6183c3a14fbc381de02fa06694c7d39b69a.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.3/bd2c1094cc7770e456da9b49a32b5d82e7cb5ac5/smack-core-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd2c1094cc7770e456da9b49a32b5d82e7cb5ac5">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-core-4.1.3-df7fd4812b9393a4c7d75ef0676b56fe1ed1091f.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/classes-15e1413136dfe1dc65a0e4606be442f2c7382bc1.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.3/5dbf13c9faca828ce1ef27b7c8efdd637113bf6e/smack-extensions-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5dbf13c9faca828ce1ef27b7c8efdd637113bf6e">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-extensions-4.1.3-860f22c8b21d6b4ea4d8f4baa1bea5f8a0908309.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/classes-525d1dd0026861c7591b4f01a455c006a526b91f.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2-beta1/43e2a81f52600639daeb02ede60cc498a13614a5/jxmpp-util-cache-0.4.2-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="43e2a81f52600639daeb02ede60cc498a13614a5">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/jxmpp-util-cache-0.4.2-beta1-fe1e0e331499e5165f97dc7055d5ff3f91089faf.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/minidns-0.1.7-5e1e3e31b954d659f3031726db3dd211ce44e2e4.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-674b4b821d84ca8112705c356c14d63c57e0e775.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/classes-f53e74e08a3cf8a464a8ca978610f08c0488e712.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.3/f8ddb93de579ec1e3b1edc9a5e35b6421b2083de/smack-im-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8ddb93de579ec1e3b1edc9a5e35b6421b2083de">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-im-4.1.3-e99bfc49ae4499643b8bf3e229f099e24dffe2f8.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.3/736dcaa69d0781a36bdbdc32539a99e5fe121f02/smack-android-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="736dcaa69d0781a36bdbdc32539a99e5fe121f02">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-android-4.1.3-eb502f7d737c8c17e2fc685e163e6c1e77c0fd6e.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.3/df70f27498a058be050bed8f1a48ab23af0896f5/smack-tcp-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="df70f27498a058be050bed8f1a48ab23af0896f5">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-tcp-4.1.3-cb8c6949276db05c1dc1adc12141bd2b02e19661.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/classes-1f3acdc427d4e2e9e3d5cf64b95ee9bdcb931c3a.jar" />
+    </item>
+    <item
+        jar="/Users/rabbithsu/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.3/f3b9097016923a90654e5ca5063561949e79c7b8/smack-resolver-minidns-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3b9097016923a90654e5ca5063561949e79c7b8">
+        <dex dex="/Users/rabbithsu/AndroidStudioProjects/BLEChat/Application/build/intermediates/pre-dexed/debug/smack-resolver-minidns-4.1.3-3b0d9348c795aa94628ddc44dbac5eea9d39d8ac.jar" />
+    </item>
+
+</items>
